@@ -2,14 +2,14 @@ Hi, I'm Hamza. Welcome to my GitHub profile!
 
 🎓currently I am studying:
 
-Computer Engineering at UBC 
+`Computer Engineering` at UBC 
 
 💻 I've gained skills in:
 
-- programming languages (C, C++, Python, and Java)
-- FPGA design and verification (Verilog and x84/ARM Assembly)
-- machine learning in computer vision (TensorFlow and PyTorch)
-- full stack web development (JavaScript, HTML/CSS, React, Node.js, Django, and Flask)
+- programming languages (`C`, `C++`, `Python`, and `Java`)
+- FPGA design and verification (`Verilog` and `x84/ARM Assembly`)
+- machine learning in computer vision (`TensorFlow` and `PyTorch`)
+- full stack web development (`JavaScript`, `HTML/CSS`, `React`, `Node.js`, `Django`, and `Flask`)
 
 🏆 I also have experience as:
 
