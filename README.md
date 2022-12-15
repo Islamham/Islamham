@@ -14,7 +14,7 @@ Hi, I'm Hamza. Welcome to my GitHub profile!
 🏆 I also have experience as:
 
 Finance and Outreach Team Lead - UBC AgroBot
-   - Led a team of 6 to acquire over $20,000 in sponsorships (from industry/academia) for two prototypes
+   - Led a team of 6 to acquire over $30,000 in sponsorships (from industry/academia) for two prototypes
    - Collaborated with third party consultation firm on market research for large-scale implementation
    
 Orientation Leader - Imagine Day
