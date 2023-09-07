@@ -1,4 +1,4 @@
-Hi, I'm Hamza. Welcome to my GitHub profile!
+**Hi, I'm Hamza. Welcome to my GitHub profile!
 
 🎓currently I am studying:
 
@@ -23,4 +23,4 @@ Orientation Leader - Imagine Day
 
 🏳️‍🌈 Pronouns: he/him 
 
-🌐 Website: to be added
+🌐 Website: to be added**
