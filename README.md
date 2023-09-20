@@ -6,10 +6,12 @@ Hi, I'm Hamza. Welcome to my GitHub profile!
 
 💻 I've gained skills in:
 
-- programming languages (`C`, `C++`, `Python`, and `Java`)
-- FPGA design and verification (`Verilog` and `x84/ARM Assembly`)
-- machine learning in computer vision (`TensorFlow` and `PyTorch`)
+- object-oriented programming (`C`, `C++`, `Python`, and `Java`)
 - full stack web development (`JavaScript`, `HTML/CSS`, `React`, `Node.js`, `Django`, and `Flask`)
+- machine learning in computer vision (`TensorFlow` and `PyTorch`)
+- FPGA design and verification (`Verilog` and `x84/ARM Assembly`)
+
+
 
 🏆 I also have experience as:
 
