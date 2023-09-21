@@ -6,7 +6,7 @@ Hi, I'm Hamza. Welcome to my GitHub profile!
 
 💼currently I am working at:
 
-`Optum Insight`
+Optum 
 
 💻 I've gained skills in:
 
