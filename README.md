@@ -8,7 +8,7 @@ Hi, I'm Hamza. Welcome to my GitHub profile!
 
 - object-oriented programming (`C`, `C++`, `Python`, and `Java`)
 - full stack web development (`JavaScript`, `HTML/CSS`, `React`, `Node.js`, `Django`, and `Flask`)
-- cloud computing platforms & IaC tools (GCP, Terraform)
+- cloud computing platforms & IaC tools (`GCP`, `Terraform`)
 - machine learning in computer vision (`TensorFlow` and `PyTorch`)
 - FPGA design and verification (`Verilog` and `x84/ARM Assembly`)
 
