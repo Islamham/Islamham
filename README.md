@@ -2,11 +2,11 @@ Hi, I'm Hamza. Welcome to my GitHub profile!
 
 🎓currently I am studying:
 
-`Computer Engineering` at UBC 
+`Computer Engineering` at `UBC` 
 
 💼currently I am working at:
 
-Optum 
+`Optum`
 
 💻 I've gained skills in:
 
