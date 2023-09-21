@@ -4,15 +4,16 @@ Hi, I'm Hamza. Welcome to my GitHub profile!
 
 `Computer Engineering` at UBC 
 
+💼currently I am working at:
+
 💻 I've gained skills in:
 
-- object-oriented programming (`C`, `C++`, `Python`, and `Java`)
-- full stack web development (`JavaScript`, `HTML/CSS`, `React`, `Node.js`, `Django`, and `Flask`)
-- cloud computing platforms & IaC tools (`GCP`, `Terraform`)
-- machine learning in computer vision (`TensorFlow` and `PyTorch`)
-- FPGA design and verification (`Verilog` and `x84/ARM Assembly`)
-
-
+- full stack web development (JavaScript, HTML/CSS, React, Node.js, Django, and Flask)
+- cloud computing platforms & IaC tools (GCP and Terraform)
+- database scripting and management (SQL)
+- machine learning in computer vision (TensorFlow and PyTorch)
+- software testing & automation (LoadRunner, Python, PowerShell, and batch scripts)
+- object-oriented programming & DS&A (C++, Java, and Python)
 
 🏆 I also have experience as:
 
