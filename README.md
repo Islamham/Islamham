@@ -1,10 +1,10 @@
 Hi, I'm Hamza. Welcome to my GitHub profile!
 
-🎓Currently I am studying:
+🎓currently I am studying:
 
 `Computer Engineering` at `UBC` 
 
-💼 and I am working at:
+💼 I am working at:
 
 `Optum`
 
