@@ -4,7 +4,7 @@ Hi, I'm Hamza. Welcome to my GitHub profile!
 
 `Computer Engineering` at `UBC` 
 
-💼currently I am working at:
+💼and I am working at:
 
 `Optum`
 
