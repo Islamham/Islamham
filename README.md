@@ -1,5 +1,6 @@
 Hi, I'm Hamza. Welcome to my GitHub profile!
 
+
 🎓 Currently I am studying: 
 
 `Computer Engineering` at UBC 
