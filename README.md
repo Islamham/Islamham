@@ -4,9 +4,9 @@ Hi, I'm Hamza. Welcome to my GitHub profile!
 
 `Computer Engineering` at UBC 
 
-💼 I am working at Optum as a:
+💼 I am working as a:
 
-`Software Engineer in Test`
+`Software Engineer in Test` at Optum
 
 💻 I've gained skills in:
 
