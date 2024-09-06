@@ -5,15 +5,11 @@ Hi, I'm Hamza. Welcome to my GitHub profile!
 
 `Computer Engineering` at UBC 
 
-💼 I am working as a:
-
-`Software Engineer in Test` at Optum
-
 💻 I've gained skills in:
 
-- full stack web development (`JavaScript`, `HTML`, `CSS`, `React`, `Node.js`, `Django`, and `Flask`)
-- cloud computing platforms & IaC tools (`GCP` and `Terraform`)
-- database scripting and management (`SQL`)
+- full stack web development (`JavaScript`, `Angular`, `React`, `Node.js`, `Next.js`, `Django`, and `Flask`)
+- cloud computing platforms & IaC tools (`GCP`, `AWS`, and `Terraform`)
+- database scripting and management (`SQL Server`, `PostgreSQL`, and `Prisma`)
 - machine learning in computer vision (`TensorFlow` and `PyTorch`)
 - software testing & automation (`LoadRunner`, `Python`, `PowerShell`, and `batch`)
 - object-oriented programming & DS&A (`C++`, `Java`, and `Python`)
