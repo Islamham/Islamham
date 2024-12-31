@@ -7,9 +7,9 @@ Hi, I'm Hamza. Welcome to my GitHub profile!
 
 💻 I've gained skills in:
 
-- full stack web development (`JavaScript`, `Angular`, `React`, `Node.js`, `Next.js`, `Django`, `Flask`, and `ASP.NET`)
-- database scripting and management (`SQL Server`, `PostgreSQL`, `MongoDB`, and `Prisma`)
-- ai and machine learning (`LangChain`, `Claude`, `Stability AI`, `AWS Bedrock`, `OpenCV`, `TensorFlow`, and `PyTorch`)
+- full stack web development (`JavaScript`, `Angular`, `React`, `Node.js`, `Next.js`, `ASP.NET`, `Django`, and `Flask`)
+- database scripting and management ( `MongoDB`,`PostgreSQL`, `SQL Server`, and `Prisma`)
+- ai and machine learning (`LangChain`, `OpenCV`, `GPT`, `Claude`, `Gemini`, `TensorFlow`, and `PyTorch`)
 - cloud computing platforms & IaC tools (`GCP`, `AWS`, and `Terraform`)
 - software testing & automation (`LoadRunner`, `Python`, `PowerShell`, and `batch`)
 - object-oriented programming & DS&A (`C++`, `Java`, and `Python`)
